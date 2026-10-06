@@ -16,8 +16,7 @@ A competitive software engineering collective building at the intersection of **
 
 ## `> whoami`
 
-**SYNTAX TERROR** is a team of developers, problem solvers, and technology enthusiasts built around one goal:
-
+**SYNTAX TERROR** is a team of developers, problem solvers, and technology enthusiasts founded by **[Swastik Kaushal](https://github.com/SwastikKaushal1)**.
 > **Turn difficult problems into working systems.**
 
 We participate in **hackathons, coding competitions, AI challenges, open-source projects, and experimental technology builds.**
